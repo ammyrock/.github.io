@@ -1,0 +1,31 @@
+# Site settings
+title: Amol Waghmare
+twitter_username: ammy
+name: Amol Waghmare
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/ammyrock
+ - title: Jobnukkad
+   url: https://jobnukkad.com
+#Any buzzword skills you want to include
+skills:
+ - Php
+ - Codeigniter MVC
+ - Laravel
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+#Work experience is required
+roles:
+ - title: Full Stack Developer
+   start: 2019
+   end: Ongoing
+   employer: Jobnukkad
+   description: JobNukkad is solving the problem associated with blue collar hiring, specifically, hiring of domestic help such as maids, babysitters, cooks, caretakers and drivers.
+#Education is required
+education:
+ - level: Bachelor of Technology (B.Tech)
+   date: 2015
+   subject: Information Technology
+   school: University of SRTM,Nanded
